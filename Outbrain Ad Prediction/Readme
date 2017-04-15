@@ -1,0 +1,7 @@
+Kaggle competition - Outbrain Click Prediction - https://www.kaggle.com/c/outbrain-click-prediction
+
+- The objective of the project was to predict a space-delimited list of ads associated with a display block, ordered by decreasing likelihood of being clicked.
+- Applied maximum likelihood estimation and probability adjustment using Adaptivesmoothing techniques, used Follow the Regression Leader (FTRL – Proximal) algorithm for predicting the probability of ads being clicked. 
+- Implementation was done in python on IU High Performance Computing servers.
+- The evaluation metric for the project was Mean Average Precision (MAP) with 12 as the number of predicted nodes
+- We obtained the best results using FTRL-Proximal giving us top 15% rank in the competition.
