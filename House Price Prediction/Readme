@@ -5,3 +5,8 @@ Kaggle competition on House Price Prediction - https://www.kaggle.com/c/house-pr
 - Feature selection was performed in R using Boruta technique. 
 - Different approaches Linear Regression, Logistic Regression, Lasso, Ridge, Adaboost and XGBoost were tried to obtain the best results. This implementation was performed in Python using the Scikit Machine Learning libraries.
 - We obtained the best results using the XGBoost algorithm giving us a rank in the top 20% of the competition.
+
+
+Acknowledgments
+
+The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
