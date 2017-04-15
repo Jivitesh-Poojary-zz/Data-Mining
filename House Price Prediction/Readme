@@ -1,1 +1,7 @@
 
+Kaggle competition on House Price Prediction - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+- The objective of the project was to accurately predict the house prices in Ames, Iowa as part of the Kaggle competition “House Prices: Advanced Regression Techniques”. The data was provided by Dean De Cock from Truman State University.
+- Feature selection was performed in R using Boruta technique. 
+- Different approaches Linear Regression, Logistic Regression, Lasso, Ridge, Adaboost and XGBoost were tried to obtain the best results. This implementation was performed in Python using the Scikit Machine Learning libraries.
+- We obtained the best results using the XGBoost algorithm giving us a rank in the top 20% of the competition.
